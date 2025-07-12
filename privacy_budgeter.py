@@ -1,19 +1,3 @@
-You're right\! Let's get those updates in for the `privacy_budgeter.py` file, incorporating the advanced concepts discussed, such as tighter composition, more dynamic factors, and the potential for a persistent privacy accounting system.
-
------
-
-## Updated `privacy_budgeter.py`
-
-This updated version introduces:
-
-  * A placeholder for a more sophisticated **privacy accounting class**.
-  * The concept of different **DP composition types** (though the actual implementation of advanced composition is complex and often done with specific libraries).
-  * More realistic bounds and potential for **learned user preferences**.
-  * A clearer distinction for `remaining_global_budget`'s impact.
-
-<!-- end list -->
-
-```python
 import math
 from typing import Literal, Optional
 
